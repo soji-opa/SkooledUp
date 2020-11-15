@@ -31,7 +31,7 @@ function DrawerContent(props) {
                 source={require('../assets/images/worker.png')}
               />
               <Title style={styles.title}>Hey!</Title>
-<Caption style={styles.caption}>Naruto</Caption>
+              <Caption style={styles.caption}>Naruto</Caption>
             </View>
 
             <Drawer.Section style={styles.drawerSection}>
